@@ -1,2 +1,2 @@
-let dados = {nome:"Glauce Rocha", cidade:"Rio de Janeiro/RJ"};
+let dados = {nome:"Glauce Rocha", cidade:"Cianorte/PR"};
 
