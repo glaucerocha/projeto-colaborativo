@@ -1,1 +1,0 @@
-let dados = {nome: "Gustavo piassa", Cidade:"Cianorte-PR"}
