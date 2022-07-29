@@ -1,1 +1,1 @@
-Glauce Souza Rocha - São Paulo/SP
+let dados = {nome:"Glauce Rocha", cidade:"São Paulo/SP"};
